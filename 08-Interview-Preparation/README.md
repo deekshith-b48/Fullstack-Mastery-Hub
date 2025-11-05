@@ -1,6 +1,8 @@
 # 📝 Interview Preparation
 
-Comprehensive resources to prepare for technical interviews.
+**Interview Success: Technical Questions, Coding Challenges, Behavioral Questions, 15,000+ Practice Problems.**
+
+Comprehensive resources to prepare for technical interviews at top tech companies.
 
 ## 📁 Structure
 

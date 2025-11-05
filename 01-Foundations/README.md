@@ -1,6 +1,8 @@
 # 📚 Foundations
 
-**Essential Building Blocks for Web Development** - Master the fundamental technologies and concepts that form the foundation of modern web development.
+**Essential Building Blocks: HTML5, CSS3, JavaScript, Git, Data Structures, Algorithms, Design Patterns.**
+
+Master the fundamental technologies and concepts that form the foundation of modern software engineering.
 
 ## 📊 Repository Statistics
 

@@ -1,6 +1,8 @@
 # ⚡ Backend Mastery
 
-**Complete Backend Development Guide** - Master server-side development with Node.js, Python, Java, and API development. Build scalable, secure, and production-ready backend systems.
+**Backend Excellence: Node.js, Python, Java, REST APIs, GraphQL, WebSockets, Microservices, Authentication.**
+
+Master server-side development with Node.js, Python, Java, and API development. Build scalable, secure, and production-ready backend systems.
 
 ## 📊 Repository Statistics
 

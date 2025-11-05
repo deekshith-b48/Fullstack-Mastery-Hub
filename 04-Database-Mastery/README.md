@@ -1,6 +1,8 @@
 # 🗄️ Database Mastery
 
-**Complete Database Guide** - Master relational and NoSQL databases, ORMs/ODMs, and database design principles. Build scalable, performant, and reliable data persistence layers.
+**Database Expertise: PostgreSQL, MySQL, MongoDB, Redis, ORMs, Database Design, Optimization, Scaling.**
+
+Master relational and NoSQL databases, ORMs/ODMs, and database design principles. Build scalable, performant, and reliable data persistence layers.
 
 ## 📊 Repository Statistics
 

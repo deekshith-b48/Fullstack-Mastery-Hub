@@ -1,6 +1,8 @@
 # 🎨 Frontend Mastery
 
-**Advanced Frontend Development** - Master modern CSS frameworks, JavaScript frameworks, build tools, and state management for building production-ready frontend applications.
+**Modern Frontend: React, Vue, Angular, CSS Frameworks, Build Tools, State Management, Performance Optimization.**
+
+Master modern CSS frameworks, JavaScript frameworks, build tools, and state management for building production-ready frontend applications.
 
 ## 📊 Repository Statistics
 
